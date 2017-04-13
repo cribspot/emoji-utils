@@ -6,3 +6,6 @@ yarn-error.log*
 
 # IntelliJ IDE
 .idea/
+
+# Artifacts
+lib/
