@@ -4,6 +4,7 @@
   "description": "Utilities for parsing and dealing with emoji strings",
   "main": "src/index.js",
   "scripts": {
+    "test": "jest",
     "clean": "rm -rf lib",
     "build": "npm run clean && babel src --out-dir lib --ignore src/__tests__",
     "prepublish": "npm run build"
@@ -16,6 +17,9 @@
   },
   "devDependencies": {
     "babel-cli": "6.24.1",
-    "babel-preset-env": "1.3.3"
+    "babel-preset-env": "1.3.3",
+    "jest": "19.0.2",
+    "lodash.forown": "4.4.0",
+    "node-emoji": "1.5.1"
   }
 }
