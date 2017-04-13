@@ -2,7 +2,11 @@
   "name": "emoji-utils",
   "version": "1.0.0",
   "description": "Utilities for parsing and dealing with emoji strings",
-  "main": "src/index.js",
+  "main": "lib/index.js",
+  "files": [
+    "lib",
+    "src"
+  ],
   "scripts": {
     "test": "jest",
     "clean": "rm -rf lib",
