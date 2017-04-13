@@ -1,6 +1,6 @@
 {
   "name": "emoji-utils",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "description": "Utilities for parsing and dealing with emoji strings",
   "main": "src/index.js",
   "scripts": {
