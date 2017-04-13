@@ -1,0 +1,9 @@
+{
+  "name": "emoji-utils",
+  "version": "0.1.0",
+  "description": "Utilities for parsing and dealing with emoji strings",
+  "main": "index.js",
+  "repository": "https://github.com/cribspot/emoji-utils",
+  "author": "Kevin Cooper <kevin@cribspot.com>",
+  "license": "MIT"
+}
